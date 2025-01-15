@@ -1,0 +1,29 @@
+
+.our-results {
+    background-image: url('images/headphones_hero_2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
+}
+
+.our-results{
+    padding: 70px 0 40px 0;
+    color: white;
+}
+
+.result {
+    height: 163px;
+    width: 172px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.result h4 {
+    font-weight: bold;
+    font-size: 3em;
+}
